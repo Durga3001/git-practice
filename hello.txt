@@ -1,4 +1,4 @@
 Hi Git
 Iam learning Git
 Iam CSE student.
-Iam studying at IIT(ISM)Dhanbad
+Iam studying at IIT(ISM)Dhanbad,Jharkhand
